@@ -2,7 +2,7 @@ import React from 'react';
 
 const About = () => {
   // Removed useState and handleImageUpload as per your request
-  const profileImageSrc = "./src/assets/profile.jpg?height=400&width=400"; // Static image source
+  const profileImageSrc = "./src/assets/Profile.jpg?height=400&width=400"; // Static image source
 
   return (
     <section id="about" className="py-20 bg-white">
