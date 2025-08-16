@@ -10,7 +10,7 @@ const Projects = () => {
       description: "Comprehensive sales analytics dashboard that provides real-time insights into regional performance, customer segmentation, and revenue trends. Features interactive visualizations, KPI tracking, and automated reporting capabilities that helped increase sales efficiency by 25%.",
       image: "/dashboard.jpeg?height=200&width=400&text=Sales+Dashboard+Power+BI",
       techStack: ["Power BI", "DAX", "Excel"],
-      githubUrl: "https://github.com/Avinashbabu-23/Result-Analysis-Dashboard.git",
+      githubUrl: "https://github.com/Avinashbabu-23/Sales-Dashboard.git",
     },
     {
       id: 2,
@@ -18,7 +18,7 @@ const Projects = () => {
       description: "Tool for automating result analysis and performance visualization. Built with Python and advanced data science libraries, this system automates the entire result analysis workflow with statistical analysis, grade distribution visualization, and generates automated reports.",
       image: "/data_analysis.jpeg?height=200&width=400&text=Result+Analysis+Python",
       techStack: ["Python", "Pandas", "Matplotlib", "Streamlit", "NumPy"],
-      githubUrl: "https://github.com/avinash/result-analysis",
+      githubUrl: "https://github.com/Avinashbabu-23/Result-Analysis-Dashboard.git",
     },
   ];
 
